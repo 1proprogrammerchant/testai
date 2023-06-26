@@ -1,0 +1,2 @@
+// command for the module.cpp
+g++ -o chatbot chatbot.cpp
